@@ -12,6 +12,11 @@
 
 ---
 
+## Related Projects
+
+- [ai-clipping-generator](https://github.com/SamurAIGPT/ai-clipping-generator) — Ready-made Next.js SaaS for AI video clipping — no ComfyUI needed
+- [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) — Full YouTube Shorts generator with virality ranking and auto-crop
+
 ## Why This vs. Opus Clip / Klap / Vizard?
 
 | | This (AI Clipping nodes) | Opus Clip / Klap / Vizard |
