@@ -14,7 +14,7 @@ Hermes Agent is built around a closed learning loop — it generates skills from
 
 This list tracks the ecosystem building around it.
 
-**See also:** [awesome-openclaw](https://github.com/SamurAIGPT/awesome-openclaw) — curated resources for OpenClaw (formerly Moltbot / Clawdbot), the predecessor agent with a native Hermes migration path.
+**See also:** [awesome-openclaw](https://github.com/Anil-matcha/awesome-openclaw) — curated resources for OpenClaw (formerly Moltbot / Clawdbot), the predecessor agent with a native Hermes migration path. [awesome-deepseek-harness](https://github.com/Anil-matcha/awesome-deepseek-harness) — curated resources for DeepSeek Harness (`dsh`), another everything-is-a-plugin agent with a large community plugin ecosystem.
 
 > Ecosystem snapshot (last reviewed: 2026-05-06)
 > - Hermes Agent: [v0.12.0 (v2026.4.30) — "The Curator release"](https://github.com/NousResearch/hermes-agent/releases/tag/v2026.4.30)
