@@ -11,6 +11,7 @@ The client currently calls MuAPI's Kling 3.0 Standard and Pro routes. The reposi
 ## Related Projects
 
 - [Kling 4 API on MuAPI](https://muapi.ai/kling-4)
+- [MuAPI](https://muapi.ai) — unified API for image, video, and audio generation.
 - [MuAPI API reference](https://muapi.ai/docs/api-reference)
 - [Create a MuAPI access key](https://muapi.ai/access-keys)
 - [Seedance 2 API](https://github.com/Anil-matcha/Seedance-2-API) — companion SDK for ByteDance video generation.
