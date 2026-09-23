@@ -8,7 +8,7 @@ A focused Python client and copy-paste examples for generating Kling videos thro
 
 The client currently calls MuAPI's Kling 3.0 Standard and Pro routes. The repository name follows the requested Kling 4 API project; use the documented route names below for working calls.
 
-## Quick links
+## Related Projects
 
 - [Kling 4 API on MuAPI](https://muapi.ai/kling-4)
 - [MuAPI API reference](https://muapi.ai/docs/api-reference)
@@ -88,12 +88,6 @@ curl "https://api.muapi.ai/api/v1/predictions/REQUEST_ID/result" \
 | Result polling | `GET /predictions/{request_id}/result` |
 
 Base URL: `https://api.muapi.ai/api/v1`. API credentials are required; create a key at [muapi.ai/access-keys](https://muapi.ai/access-keys).
-
-## Related projects
-
-- [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) — Python wrapper for Seedance video generation.
-- [Awesome AI Video Models](https://github.com/Anil-matcha/awesome-ai-video-models) — model comparisons, including Kling and Seedance.
-- [MuAPI](https://muapi.ai) — unified API for image, video, and audio generation.
 
 ## License
 
