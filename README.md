@@ -210,6 +210,7 @@ Once you're comfortable with the basics, explore the full list below. Every reso
 - **[beta]** [agenttrace](https://github.com/luoyuctl/agenttrace) by [luoyuctl](https://github.com/luoyuctl) — Local-first TUI/CLI for post-run session audits covering cost and token spikes, tool failures, retry loops, latency gaps, health scores, anomaly detection, and session diffs. No upload, no cloud, MIT. Ships a companion SKILL.md for in-agent audit runs.
 - **[beta]** [llmtrim](https://github.com/fkiene/llmtrim) by [fkiene](https://github.com/fkiene) — Local proxy in front of the model Hermes calls; compresses resent tool schemas, history, and MCP tool output before each request is sent. Quality-gated, so it never increases your bill. -31% input / -74% output tokens. Also an MCP server, CLI, and library (Rust, Python, Ruby, Swift, Kotlin, JS/WASM). MPL-2.0.
 - **[beta]** [Agent37 Starter Kit](https://github.com/agent37-platform/starter-kit) by [Agent37](https://github.com/agent37-platform) — Fork-and-rebrand multi-tenant web app for running Hermes agents: auth, chat, files, fleet management (Supabase; needs an Agent37 Cloud key)
+- **[production]** [Statsnet MCP](https://github.com/usenetstate/statsnet-mcp) by [usenetstate](https://github.com/usenetstate) — Remote MCP for worldwide company background checks (registration, executives, courts, finances) at `https://statsnet.co/mcp`. Registry `io.github.usenetstate/statsnet`.
 
 ### Deployment
 
