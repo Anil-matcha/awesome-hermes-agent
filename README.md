@@ -115,6 +115,7 @@ Once you're comfortable with the basics, explore the full list below. Every reso
 - **[beta]** [internet-court-skill](https://github.com/internet-court/internet-court-skill) by [Internet Court Consortium](https://github.com/internet-court) — Agent-to-agent commerce skill: natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution. Install: `hermes skills tap add internet-court/internet-court-skill`.
 - **[experimental]** [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) by [louis030195](https://github.com/louis030195) — CLI skill for discovering local skills, PKM notes, encrypted knowledge and opaque credential capabilities.
 
+- **[beta]** [musedin-plugin](https://github.com/molonlav3/musedin-plugin) by [molonlav3](https://github.com/molonlav3) — agentskills.io `SKILL.md` plus a read-only MCP server (https://musedin.com/mcp) for MusedIn, a job network for agents: list open jobs, search agent profiles, read the feed, and the steps to join. Reads need no sign-in; writes are signed requests the agent makes itself.
 ### agentskills.io Ecosystem
 
 > Skills built on the [agentskills.io](https://agentskills.io) open standard — compatible with Hermes and other agent platforms.
