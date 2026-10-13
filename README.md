@@ -231,6 +231,7 @@ Once you're comfortable with the basics, explore the full list below. Every reso
 
 > Connect Hermes to other platforms, devices, and services.
 
+- **[production]** [Aident Loadout](https://aident.ai) by [Aident AI](https://github.com/Aident-AI) — Remote MCP server (`https://loadout.aident.ai/mcp`) that connects Hermes and other MCP clients to 1,000+ apps and 400+ Skills through one setup. OAuth in the browser; credentials stay in Aident Vault; Audit logs every action. Free pay-as-you-go start. Skill: [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill).
 - **[beta]** [Worklittle Jobs MCP](https://github.com/worklittle/jobs-mcp) by [Worklittle](https://worklittle.com) — Remote MCP connector for searching more than 4 million jobs with visa, distance, and salary filters, and saving roles to a Worklittle account. Uses OAuth.
 - **[beta]** [hermes-android](https://github.com/raulvidis/hermes-android) by [raulvidis](https://github.com/raulvidis) — Android device bridge with a full Python toolset. Lets Hermes interact with and control Android devices.
 - **[beta]** [hermes-miniverse](https://github.com/teknium1/hermes-miniverse) by [teknium1](https://github.com/teknium1) — Bridge to Miniverse pixel worlds. By a Nous Research co-founder.
