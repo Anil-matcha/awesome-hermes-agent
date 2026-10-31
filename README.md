@@ -174,6 +174,8 @@ Once you're comfortable with the basics, explore the full list below. Every reso
 - **[beta]** [cron-status-alert](https://github.com/pnascimento9596/cron-status-alert) by [pnascimento9596](https://github.com/pnascimento9596) — DMs you when a scheduled Hermes job fails to deliver to Discord or runs overdue, and confirms recovery. Distinct from cronalytics (cost/usage/health); watches delivery-receipt status. Adds /cron-status.
 - **[experimental]** [Bot HQ](https://github.com/the-spirit-realm/hermes-bot-hq) by [the-spirit-realm](https://github.com/the-spirit-realm) — Hermes desktop plugin: sidebar fleet page for local bots (profiles) plus per-bot Home dashboards. Install: `hermes plugins install the-spirit-realm/hermes-bot-hq`.
 
+- **[beta]** [hermes-multica-bridge](https://github.com/teknokomo/hermes-multica-bridge) by [Teknokomo](https://github.com/teknokomo) — Bridge between Hermes and Multica: Kanban Autopilot routes plus MAX and Telegram workspace routes, with a separate reverse-delivery watcher, scoped credentials and idempotent messaging.
+
 ### Skill Registries & Discovery
 
 - **[beta]** [hermeshub](https://github.com/amanning3390/hermeshub) by [amanning3390](https://github.com/amanning3390) — Browse, share, and install community skills for Hermes. A community hub for skill discovery, still early but growing.
