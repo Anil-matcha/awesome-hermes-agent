@@ -232,6 +232,7 @@ Once you're comfortable with the basics, explore the full list below. Every reso
 > Connect Hermes to other platforms, devices, and services.
 
 - **[beta]** [Worklittle Jobs MCP](https://github.com/worklittle/jobs-mcp) by [Worklittle](https://worklittle.com) — Remote MCP connector for searching more than 4 million jobs with visa, distance, and salary filters, and saving roles to a Worklittle account. Uses OAuth.
+- **[beta]** [Right Suite](https://github.com/wednesday-solutions/right-suite-mcp) by [Wednesday Solutions](https://github.com/wednesday-solutions) — Hermes plugin for a paid hosted MCP server that tests your price, landing page, cold email, ads and positioning on 100+ AI-simulated buyers and returns a verdict, the main objections and what to change. Uses OAuth; runs use Right Suite credits.
 - **[beta]** [hermes-android](https://github.com/raulvidis/hermes-android) by [raulvidis](https://github.com/raulvidis) — Android device bridge with a full Python toolset. Lets Hermes interact with and control Android devices.
 - **[beta]** [hermes-miniverse](https://github.com/teknium1/hermes-miniverse) by [teknium1](https://github.com/teknium1) — Bridge to Miniverse pixel worlds. By a Nous Research co-founder.
 - **[production]** [hindsight](https://github.com/vectorize-io/hindsight) by [Vectorize](https://github.com/vectorize-io) — Long-term memory layer for agents with retain/recall/reflect workflows. Integrates with Hermes via plugin or MCP and supports semantic, graph, and temporal retrieval.
